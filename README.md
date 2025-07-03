@@ -1,16 +1,13 @@
-# slicing
+# hasil task slicing pusat akun dan kalkulator
 
-A new Flutter project.
+### 1. Kalkulator
+- Folder: [`kalkulatorpkl`](./kalkulatorpkl)
+- Hasil Tampilan:![kalkulator ](https://github.com/user-attachments/assets/ae56a8f8-d7c3-42cf-834a-f7e88def8327)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Slicing
+- Folder: [`slicing`](./slicing)
+- Hasil pusat akun:![pusatakun](https://github.com/user-attachments/assets/2d3a5d2f-7774-4803-9c05-a2974bc01ccb)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
