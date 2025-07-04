@@ -6,5 +6,6 @@ tampilan hasilnya:
 ) --- 
 2. Slicing 
 -Folder [`slicing`](./slicing)
-tampilan hasilnya: [hasil pusat akun](https://github.com/user-attachments/assets/a0f5d0fb-9f22-43ac-b75f-db7794e85d06)
+tampilan hasilnya: 
+[hasil pusat akun]](![pusat akun](https://github.com/user-attachments/assets/a0f5d0fb-9f22-43ac-b75f-db7794e85d06)
 )
