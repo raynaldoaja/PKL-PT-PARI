@@ -4,8 +4,10 @@
 tampilan hasilnya:
 [Hasil Kalkulator](![kalkulator ](https://github.com/user-attachments/assets/e396b2a3-ab4b-4a42-a4f2-7e4997998cd9)
 ) --- 
-2. Slicing 
+### 2. Slicing 
 -Folder [`slicing`](./slicing)
 tampilan hasilnya: 
-[hasil pusat akun]](![pusat akun](https://github.com/user-attachments/assets/a0f5d0fb-9f22-43ac-b75f-db7794e85d06)
+![hasil pusat akun](https://github.com/user-attachments/assets/75a6b6c1-046c-437b-aaf7-9b0e8a5dcf2c)
 )
+
+
