@@ -13,10 +13,8 @@ class Menu extends StatelessWidget {
     );
   }
 }
-
 class AccountCenter extends StatelessWidget {
   const AccountCenter({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -32,31 +30,25 @@ class AccountCenter extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            // Hapus 'const' dari ListTile karena ada fungsi anonim pada 'onTap'
             ListTile(
               leading: const Icon(Icons.info_outline_rounded),
               title: const Text('Informasi Akun'),
               trailing: const Icon(Icons.arrow_forward_ios),
               onTap: () {
-                // Tambahkan logika navigasi atau aksi di sini
               },
             ),
-            // Hapus 'const' dari ListTile karena ada fungsi anonim pada 'onTap'
             ListTile(
-              leading: const Icon(Icons.security),
+             leading: const Icon(Icons.security),
               title: const Text('Keamanan Akun'),
               trailing: const Icon(Icons.arrow_forward_ios),
               onTap: () {
-                // Tambahkan logika navigasi atau aksi di sini
               },
             ),
             const Spacer(),
             const Text('Device Version 1.0.0.0'),
             const SizedBox(height: 16,),
-            // Hapus 'const' dari ElevatedButton.icon karena ada fungsi anonim pada 'onPressed'
             ElevatedButton.icon(
               onPressed: () {
-                // Implementasi untuk tombol Log out
               },
               icon: const Icon(Icons.exit_to_app),
               label: const Text('Log out'),
