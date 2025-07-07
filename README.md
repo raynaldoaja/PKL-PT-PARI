@@ -1,6 +1,7 @@
 ## hasil Task
 ### kalkulator 
--Folder: [`kalkulatorpkl`](./kalkulatorpkl)
+-Folder: [`kalkulator`](./kalkulator
+)
 tampilan hasilnya:
 [Hasil Kalkulator](![kalkulator ](https://github.com/user-attachments/assets/e396b2a3-ab4b-4a42-a4f2-7e4997998cd9)
 ) --- 
