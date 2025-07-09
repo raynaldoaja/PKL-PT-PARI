@@ -4,15 +4,14 @@ void main() {
 }
 class Menu extends StatelessWidget {
   const Menu({super.key});
-
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: const AccountCenter(),
-      debugShowCheckedModeBanner: false,
+   return MaterialApp(
+    home: const AccountCenter(),
+    debugShowCheckedModeBanner: false,
     );
   }
-}
+} 
 class AccountCenter extends StatelessWidget {
   const AccountCenter({super.key});
   @override
@@ -23,7 +22,7 @@ class AccountCenter extends StatelessWidget {
         centerTitle: true,
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
-          onPressed: () {},
+        onPressed: () {},
         ),
       ),
       body: Padding(
