@@ -1,0 +1,30 @@
+
+.vscode/templates
+# --- ISI FILE .gitignore (Salin semua baris di bawah ini dan tempel ke file .gitignore Anda) ---
+# Generated files
+.dart_tool/
+.idea/
+.vscode/
+build/
+
+# Platform-specific generated files (essential to ignore)
+android/
+ios/
+macos/
+linux/
+windows/
+web/
+
+# Other common generated/local files
+*.iml
+*.iws
+*.ipr
+local.properties
+GeneratedPluginRegistrant.java
+GeneratedPluginRegistrant.h
+GeneratedPluginRegistrant.m
+
+# Optional: You might want to keep pubspec.lock tracked for dependency consistency
+# If you want to ignore it, uncomment the line below:
+# pubspec.lock
+# --- AKHIR ISI FILE .gitignore ---
